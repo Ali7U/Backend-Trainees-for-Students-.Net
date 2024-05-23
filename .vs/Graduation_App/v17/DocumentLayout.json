@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\controllers\\traineecoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\controllers\\traineecoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\traineecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\traineecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\MyAppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graduation_App\\Models\\Entities\\MyAppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\updatedto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\updatedto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\dto\\addcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\dto\\addcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\dto\\addapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\dto\\addapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\updatedto\\updateapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\updatedto\\updateapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\json\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\json\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\dto\\addtraineecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\dto\\addtraineecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\updatedto\\updatetraineecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\updatedto\\updatetraineecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\models\\entities\\updatedto\\updatecompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\models\\entities\\updatedto\\updatecompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|c:\\users\\alloo\\source\\repos\\graduation_app\\graduation_app\\graduation_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3F77CB1-D677-4112-A834-1D8F499D1588}|Graduation_App\\Graduation_App.csproj|solutionrelative:graduation_app\\graduation_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graduation_App\\Models\\Entities\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Traineecourse.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\Traineecourse.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\Traineecourse.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\Traineecourse.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\Traineecourse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:02:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:50:46.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Program.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Program.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Program.cs",
+              "RelativeToolTip": "Graduation_App\\Program.cs",
+              "ViewState": "AQIAABgAAAAgZ2ZmZmYkwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:43:33.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Graduation_App\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAzMzMzMz8vx0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:49:38.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\DTO\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\AddUserDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\DTO\\AddUserDTO.cs",
+              "ViewState": "AQIAAB8AAACAMDMzM3MgwCYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:48:30.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TraineeCourseController.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\TraineeCourseController.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Controllers\\TraineeCourseController.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\TraineeCourseController.cs",
+              "RelativeToolTip": "Graduation_App\\Controllers\\TraineeCourseController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:52:30.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\LoginUserDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\DTO\\LoginUserDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\LoginUserDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\DTO\\LoginUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:21:07.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\MyAppDbContext.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\MyAppDbContext.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\MyAppDbContext.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\MyAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:01:32.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Graduation_App\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABsAAAAAoJmZmZnpvyIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:23:07.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Graduation_App\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAABIAAADAmpmZmZkjwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:10:48.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\appsettings.json",
+              "RelativeDocumentMoniker": "Graduation_App\\appsettings.json",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\appsettings.json",
+              "RelativeToolTip": "Graduation_App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T03:45:38.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "Graduation_App\\Controllers\\ApplicationController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA8wE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:11:34.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\Application.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\Application.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:52:08.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateUserDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateUserDTO.cs",
+              "ViewState": "AQIAAA4AAACAMzMzMzMqwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:58:57.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\AddCompanyDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\DTO\\AddCompanyDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\AddCompanyDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\DTO\\AddCompanyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:31:06.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\AddApplicationDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\DTO\\AddApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\AddApplicationDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\DTO\\AddApplicationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:25:16.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateApplicationDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateApplicationDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateApplicationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:57:47.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DateOnlyJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\JSON\\DateOnlyJsonConverter.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\JSON\\DateOnlyJsonConverter.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\JSON\\DateOnlyJsonConverter.cs",
+              "RelativeToolTip": "Graduation_App\\JSON\\DateOnlyJsonConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:20:11.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddTraineecourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\AddTraineecourseDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\DTO\\AddTraineecourseDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\DTO\\AddTraineecourseDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\DTO\\AddTraineecourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:31:36.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Graduation_App\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:04:35.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateTraineecourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateTraineecourseDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateTraineecourseDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateTraineecourseDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateTraineecourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:58:31.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateCompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateCompanyDTO.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateCompanyDTO.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateCompanyDTO.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\UpdateDTO\\UpdateCompanyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:58:10.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Graduation_App.csproj",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Graduation_App.csproj",
+              "RelativeDocumentMoniker": "Graduation_App\\Graduation_App.csproj",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Graduation_App.csproj",
+              "RelativeToolTip": "Graduation_App\\Graduation_App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T10:42:01.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Graduation_App\\Models\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alloo\\source\\repos\\Graduation_App\\Graduation_App\\Models\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Graduation_App\\Models\\Entities\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:44:50.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
